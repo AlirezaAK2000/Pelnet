@@ -1,0 +1,6 @@
+{
+    "port":2323 ,
+    "encoding" : "utf-8",
+    "msg_len" : 1024,
+    "ip" : "localhost"
+}

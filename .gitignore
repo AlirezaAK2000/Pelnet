@@ -1,0 +1,5 @@
+/server_files/*
+/clinet_files/*
+server.log
+venv
+history.db
