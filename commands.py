@@ -66,7 +66,7 @@ def decompose_command(command):
 class NotACommandError(Exception):
 
     """
-        raised for commands that does not implemented
+        For commands that have not been implemented
     """
     
     def __init__(self, *args: object) -> None:
